@@ -1,0 +1,9 @@
+.submit{width: 40px;height: 80px;margin-top:40px;}
+.submit h2{background:#444;color:#ffffff;font-size:35px;padding:10px;font-size:24px;border-style:solid;width: 120px;height: 55px;margin-left:30px;}
+.submit :hover {background:#888;color:#777;}
+h4{color:#ffffff;text-align:center;}
+#message {padding-left:50px;padding-top:60px;float:left;}
+contact{float:left;}
+#contact h1 {text-align:center;padding-top:60px;font-size:50px;}
+#contact h3 {text-align:center;}
+}

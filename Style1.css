@@ -1,0 +1,30 @@
+body {
+    background:#999;}
+#header{float:left;background: #444;height: 135px;}
+#menu{float:left;background: #444;height: 20px;min-height: 135px;text-align:right;}	
+#menu ul li{font-size:30px;display:inline;text-align:right;padding-left:45px;padding-top:10px;line-height:0px;}
+#menu ul li a{color:#ffffff;}
+#menu li {
+	float: left;
+	display: inline;
+	margin-left:0px;
+}
+#box{height:70px;background: #444;}
+#search{height:70px;background:#444;color:#ffffff;font-size:19px;}
+@media(max-width: 600px){
+	#navbar-collapse div,ul,li{
+		width: 100%;
+	}
+	#header{height: 100px;}
+	#menu{padding:0px;width:100%;}
+    #menu ul li{text-align:left;padding-top:20px;padding-left:0px;font-size:24px;}
+	#footer h3{font-size:15px;}
+}
+#menu ul li a:hover{color:#000;}
+	a{text-decoration:none;color:#ffffff;}
+.m-grid{color:#ffffff;background:#000;}
+#header p{text-decoration:underline overline;font-size:60px;color:#ffffff;margin:10px;}
+#footer{background:#444;height: 120px;}
+#footer h3{text-align:center;line-height:100px;}
+.go{float:left;background:#000;color:#ffffff;font-size:20px;border-style:solid;width: 31px;height: 28px;}
+.go :hover {background:#888;}

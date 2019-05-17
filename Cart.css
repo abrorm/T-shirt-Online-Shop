@@ -1,0 +1,27 @@
+#c{background:#000; margin:0px;}
+#block{height:90px;}
+.out h2{background:#fff;color:#000;height:60px;width:168px;font-size:30px;padding:10px;border-style:solid;text-align:right;}
+.out :hover {background:#888;}
+.out a{color:#999;text-decoration:none;}
+#data1x{margin:20px 0px 0px 50px;height:220px;}
+#data2x{margin:5px;margin-left:25px;text-align:center;height:230px;}
+#data3x{margin:20px 0px 0px 112px;height:220px;}
+#data4x{margin:20px 0px 0px 0px;text-align:center;height:220px;}
+#chart {font-size:27px;padding-bottom:50px;padding-left:30px;}
+#text{color:#fff;text-align:center;font-size:24px;font-weight:bold;}
+#text4{color:#fff;padding-left:90px;font-size:21px;}
+#line{height:3px;background:#999;float:left;}
+#data{color:#fff;}
+.remove h2{background:#444;color:#fff;font-size:24px;border-style:solid;width: 200px;height: 75px;margin:0px;padding: 15px 8px;}
+.remove :hover {background:#888;color:#000;}
+.remove a{text-decoration:none;color:#ffffff;}
+img{width:125px;height:180px;}
+#data1 {height:2px;color:#fff;height:250px;padding-top:20px;height:320px;}
+#data2{text-align:center;color:#fff;height:250px;padding-top:20px;font-size:19px;height:320px;}
+#data3{padding-top:20px;font-size:19px;height:320px;}
+#data4{text-align:center;padding-top:20px;font-size:19px;height:320px;}
+#total{text-align:right;height:150px;color:#fff;}
+#total h4 {margin-bottom:40px;font-size:20px;margin-left:20px;}
+#note{height:150px;color:#fff;padding-left:40px;padding-top:12px;font-size:22px;}	
+h2{color:#fff;}
+#data4 {color:#fff;}
